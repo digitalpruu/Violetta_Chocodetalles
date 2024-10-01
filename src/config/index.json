@@ -36,7 +36,7 @@
     "items": [
       {
         "title": "Productos",
-        "description": "Violetta Chocodetalles es tu lugar ideal para encontrar chocolates y detalles que endulcen cualquier ocasión. Elaboramos nuestras delicias con los mejores ingredientes y un toque de cariño, asegurando que cada bocado sea una experiencia memorable.",
+        "description": "Violetta Chocodetalles es tu lugar ideal para encontrar chocolates y detalles personalizados que endulcen cualquier ocasión. Elaboramos nuestras delicias con los mejores ingredientes y un toque de cariño, asegurando que cada bocado sea una experiencia memorable.",
         "img": "/assets/images/2.png"
       },
       {
@@ -53,22 +53,22 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 316 8152050",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "violettachocolateria@gmail.com",
         "icon": "/assets/images/email.png"
       },
       {
         "name": "Instagram",
-        "description": "@MiNegocio",
+        "description": "@violetta_chocodetalles",
         "icon": "/assets/images/insta.png"
       },
       {
         "name": "Facebook",
-        "description": "Mi Negocio",
+        "description": "Violetta chocodetalles",
         "icon": "/assets/images/facebook.jpg"
       }
     ]
