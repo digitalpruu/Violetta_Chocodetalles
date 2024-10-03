@@ -64,7 +64,8 @@
       {
         "name": "Instagram",
         "description": "@violetta_chocodetalles",
-        "icon": "/assets/images/insta.png"
+        "icon": "/assets/images/insta.png",
+        "url":""
       },
       {
         "name": "Facebook",
