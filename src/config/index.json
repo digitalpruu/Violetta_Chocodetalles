@@ -65,12 +65,13 @@
         "name": "Instagram",
         "description": "@violetta_chocodetalles",
         "icon": "/assets/images/insta.png",
-        "url":""
+        "url":"https://www.instagram.com/violetta_chocodetalles?igsh=MTl3cmlicHp5Y2g3Mw=="
       },
       {
         "name": "Facebook",
         "description": "Violetta chocodetalles",
-        "icon": "/assets/images/facebook.jpg"
+        "icon": "/assets/images/facebook.jpg",
+        "url":"https://www.facebook.com/profile.php?id=100083089158197&mibextid=ZbWKwL"
       }
     ]
   },
